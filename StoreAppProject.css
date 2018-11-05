@@ -1,0 +1,39 @@
+header{
+    background-color: darkgray;
+    width: fit-content;
+    align-content: center;
+    margin: 30px 30px 30px 30px;
+    font-size: 1.5em;
+}
+body{
+    background: url(StoreAppProject_assets/stars.jpg);
+    background-size: 90%;
+}
+section div.browse{
+    background-color: rgb(87, 87, 204);
+    color: rgb(0, 0, 0);
+    width: fit-content;
+    border: 40px 20px 40px 20px;
+    margin: 30px 30px 30px 30px;
+    font-size: 1.4em;
+}
+section div.panel{
+    background-color: rgb(87, 87, 204);
+    color: rgb(0, 0, 0);
+    width: fit-content;
+    border: 40px 20px 40px 20px;
+    margin: 30px 30px 30px 30px;
+    font-size: 1.1em;
+}
+button {
+    color: greenyellow;
+    background-color: green;
+    display: inline-block;
+    margin: 0 0.75em 0 0;
+    padding: 0.2em 0.5em;
+    text-transform: uppercase;
+}
+button:hover {
+    background-color: #FBF3DB;
+    border: 1px solid green;
+}
